@@ -1,2 +1,2 @@
 # SeleService
-Sistema Web de anuncio de serviços
+Cálculo do indice de massa corporal
