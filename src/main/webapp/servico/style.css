@@ -1,12 +1,23 @@
+.colorgraph {
+  height: 5px;
+  border-top: 0;
+  background: #222;
+  border-radius: 5px;
+}
+
 h1 {
     color: white;
     font-size: 60px;
     text-align: center;
 }
 
+h2 {
+    font-size: 20px;
+}
+
 p {
     color: white;
-    font-size: 26px;
+    font-size: 36px;
     text-align: center;
 }
 
@@ -19,6 +30,11 @@ p {
     border-color:#222222;
 }
 
-.link {
+#rodape {
+    background-color: #222222;
+    color: white;
+}
+
+#usuario {
     color: black;
 }
