@@ -1,0 +1,36 @@
+.colorgraph {
+  height: 5px;
+  border-top: 0;
+  background: #222;
+  border-radius: 5px;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+.panel > .panel-heading {
+    background-color: #222222;
+    color: white;
+}
+
+.panel {
+    border-color:#222222;
+}
+
+#categoria {
+    height: 40px;
+    font-size: 18px;
+}
+
+#descricao {
+    max-width: 100%;
+}
